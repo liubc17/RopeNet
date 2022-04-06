@@ -1,4 +1,4 @@
-# RopeNet-
+# RopeNet
 Implementation for RopeNet 
 Matlab version: R2018a
 
